@@ -1,0 +1,5 @@
+"game_performance.log" 
+__pycache__/ 
+*.pyc 
+*.pkl 
+game_performance.log 
